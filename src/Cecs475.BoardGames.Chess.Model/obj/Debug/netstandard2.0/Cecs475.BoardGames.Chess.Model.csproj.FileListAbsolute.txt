@@ -1,0 +1,14 @@
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.deps.json
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.csprojAssemblyReference.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.AssemblyInfoInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.AssemblyInfo.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.csproj.CopyComplete
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Chess.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Chess.Model.pdb

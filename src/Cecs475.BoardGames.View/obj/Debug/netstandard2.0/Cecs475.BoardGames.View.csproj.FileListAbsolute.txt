@@ -1,0 +1,12 @@
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\bin\Debug\netstandard2.0\Cecs475.BoardGames.View.deps.json
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\bin\Debug\netstandard2.0\Cecs475.BoardGames.View.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\bin\Debug\netstandard2.0\Cecs475.BoardGames.View.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.AssemblyInfoInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.AssemblyInfo.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.csproj.CopyComplete
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.View\obj\Debug\netstandard2.0\Cecs475.BoardGames.View.csprojAssemblyReference.cache

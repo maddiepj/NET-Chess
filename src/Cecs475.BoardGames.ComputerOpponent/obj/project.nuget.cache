@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNdUhakZtlEaAKCr+aHViTtAg0yr3Q9NZBv3ZyzF6IsW4vBV0ziXYGyTAyvtAcdR2KiEZo0Mm8vqPyBNPdfP4A==",
+  "success": true,
+  "projectFilePath": "D:\\Matthew\\Documents\\School\\Spring 2020\\Net Frameworks Local\\Project 3\\Cecs475.BoardGames.ComputerOpponent\\Cecs475.BoardGames.ComputerOpponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

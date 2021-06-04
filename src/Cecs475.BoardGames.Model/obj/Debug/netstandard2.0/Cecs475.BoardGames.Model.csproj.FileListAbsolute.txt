@@ -1,0 +1,20 @@
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.deps.json
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfoInputs.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfo.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.deps.json
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.csprojAssemblyReference.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfoInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfo.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfoInputs.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfo.cs

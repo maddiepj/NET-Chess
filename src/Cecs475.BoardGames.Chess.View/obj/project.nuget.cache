@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9SbGqJrb7BIMGZtOCs28bdpgAcLB7dpvCNLyutByG5k7pNsU1j051/yR4X3H0GARsNPXzSrmZphlDl5ZKhdSoA==",
+  "success": true,
+  "projectFilePath": "D:\\Matthew\\Documents\\School\\Spring 2020\\Net Frameworks Local\\Project 3\\src\\Cecs475.BoardGames.Chess.View\\Cecs475.BoardGames.Chess.View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

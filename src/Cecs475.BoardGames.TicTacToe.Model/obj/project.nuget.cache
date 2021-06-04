@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Itka3KIla8fnojmPgbPikutVv+QTPTlj2bcKUPVAhpeZ3RWbMYqqTf0De1iEQ9w5wBumzTMJ93maTsXG2oDUDg==",
+  "success": true,
+  "projectFilePath": "D:\\Matthew\\Documents\\School\\Spring 2020\\Net Frameworks Local\\Project 3\\src\\Cecs475.BoardGames.TicTacToe.Model\\Cecs475.BoardGames.TicTacToe.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

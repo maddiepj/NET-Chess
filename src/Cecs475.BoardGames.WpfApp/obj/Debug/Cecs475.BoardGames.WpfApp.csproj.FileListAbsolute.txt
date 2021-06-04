@@ -1,0 +1,66 @@
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.exe.config
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.exe
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.ComputerOpponent.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.Model.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfView.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\RestSharp.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.Model.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfView.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\bin\Debug\RestSharp.xml
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameWindow.g.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\LoadingScreen.g.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\App.g.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.lref
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameChoiceWindow.baml
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameWindow.baml
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\LoadingScreen.baml
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.g.resources
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.Properties.Resources.resources
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csproj.GenerateResource.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csproj.CopyComplete
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.exe
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.exe.config
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.exe
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfApp.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.ComputerOpponent.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfView.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Newtonsoft.Json.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\RestSharp.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Cecs475.BoardGames.WpfView.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\Newtonsoft.Json.xml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\bin\Debug\RestSharp.xml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csprojAssemblyReference.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameChoiceWindow.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameWindow.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\LoadingScreen.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\App.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.lref
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameChoiceWindow.baml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameWindow.baml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\LoadingScreen.baml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.g.resources
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.Properties.Resources.resources
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csproj.GenerateResource.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csproj.CopyComplete
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.exe
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.pdb
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameChoiceWindow.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\GameWindow.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\LoadingScreen.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\App.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.WpfApp\obj\Debug\Cecs475.BoardGames.WpfApp_MarkupCompile.lref

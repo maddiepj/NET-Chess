@@ -1,0 +1,28 @@
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Othello.WpfView.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Othello.WpfView.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.ComputerOpponent.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Othello.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.WpfView.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.ComputerOpponent.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.Othello.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\bin\Debug\Cecs475.BoardGames.WpfView.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.csprojAssemblyReference.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\OthelloView.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView_MarkupCompile.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView_MarkupCompile.lref
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\OthelloView.baml
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.g.resources
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.Properties.Resources.resources
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.csproj.GenerateResource.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.csproj.CopyComplete
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.pdb
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\OthelloView.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView_MarkupCompile.cache
+C:\Users\maddi\Desktop\Chess\src\Cecs475.BoardGames.Othello.WpfView\obj\Debug\Cecs475.BoardGames.Othello.WpfView_MarkupCompile.lref

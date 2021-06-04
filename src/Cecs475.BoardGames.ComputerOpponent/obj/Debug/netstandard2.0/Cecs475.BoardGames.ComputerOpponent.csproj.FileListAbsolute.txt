@@ -1,0 +1,23 @@
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.deps.json
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.csprojAssemblyReference.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.AssemblyInfoInputs.cache
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.AssemblyInfo.cs
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.csproj.CopyComplete
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.dll
+C:\Users\maddi\Desktop\Spring 2020\CECS 475 Frameworks\CECS_475_Project_3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.deps.json
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.csprojAssemblyReference.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.csproj.CoreCompileInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.AssemblyInfoInputs.cache
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.AssemblyInfo.cs
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.csproj.CopyComplete
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.dll
+D:\Matthew\Documents\School\Spring 2020\Net Frameworks Local\Project 3\Cecs475.BoardGames.ComputerOpponent\obj\Debug\netstandard2.0\Cecs475.BoardGames.ComputerOpponent.pdb

@@ -1,0 +1,225 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cecs475.BoardGames.Chess.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.ComputerOpponent": "1.0.0",
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.Chess.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.Chess.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Chess.View/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.Chess.Model": "1.0.0",
+          "Cecs475.BoardGames.View": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.Chess.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.Chess.View.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.ComputerOpponent/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.ComputerOpponent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.ComputerOpponent.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Othello.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.ComputerOpponent": "1.0.0",
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.Othello.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.Othello.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Othello.View/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0",
+          "Cecs475.BoardGames.Othello.Model": "1.0.0",
+          "Cecs475.BoardGames.View": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.Othello.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.Othello.View.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.View/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cecs475.BoardGames.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cecs475.BoardGames.View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cecs475.BoardGames.Chess.Model/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.Chess.Model/Cecs475.BoardGames.Chess.Model.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.Chess.Model/Cecs475.BoardGames.Chess.Model.csproj"
+    },
+    "Cecs475.BoardGames.Chess.View/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.Chess.View/Cecs475.BoardGames.Chess.View.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.Chess.View/Cecs475.BoardGames.Chess.View.csproj"
+    },
+    "Cecs475.BoardGames.ComputerOpponent/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.ComputerOpponent/Cecs475.BoardGames.ComputerOpponent.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.ComputerOpponent/Cecs475.BoardGames.ComputerOpponent.csproj"
+    },
+    "Cecs475.BoardGames.Model/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.Model/Cecs475.BoardGames.Model.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.Model/Cecs475.BoardGames.Model.csproj"
+    },
+    "Cecs475.BoardGames.Othello.Model/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.Othello.Model/Cecs475.BoardGames.Othello.Model.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.Othello.Model/Cecs475.BoardGames.Othello.Model.csproj"
+    },
+    "Cecs475.BoardGames.Othello.View/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.Othello.View/Cecs475.BoardGames.Othello.View.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.Othello.View/Cecs475.BoardGames.Othello.View.csproj"
+    },
+    "Cecs475.BoardGames.View/1.0.0": {
+      "type": "project",
+      "path": "../Cecs475.BoardGames.View/Cecs475.BoardGames.View.csproj",
+      "msbuildProject": "../Cecs475.BoardGames.View/Cecs475.BoardGames.View.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Cecs475.BoardGames.Chess.Model >= 1.0.0",
+      "Cecs475.BoardGames.Chess.View >= 1.0.0",
+      "Cecs475.BoardGames.Model >= 1.0.0",
+      "Cecs475.BoardGames.Othello.Model >= 1.0.0",
+      "Cecs475.BoardGames.Othello.View >= 1.0.0",
+      "Cecs475.BoardGames.View >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maddi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.ConsoleApp\\Cecs475.BoardGames.ConsoleApp.csproj",
+      "projectName": "Cecs475.BoardGames.ConsoleApp",
+      "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.ConsoleApp\\Cecs475.BoardGames.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\maddi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\maddi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Chess.Model\\Cecs475.BoardGames.Chess.Model.csproj"
+            },
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Chess.View\\Cecs475.BoardGames.Chess.View.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Chess.View\\Cecs475.BoardGames.Chess.View.csproj"
+            },
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj"
+            },
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Othello.Model\\Cecs475.BoardGames.Othello.Model.csproj"
+            },
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Othello.View\\Cecs475.BoardGames.Othello.View.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.Othello.View\\Cecs475.BoardGames.Othello.View.csproj"
+            },
+            "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.View\\Cecs475.BoardGames.View.csproj": {
+              "projectPath": "C:\\Users\\maddi\\Desktop\\Chess\\src\\Cecs475.BoardGames.View\\Cecs475.BoardGames.View.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
